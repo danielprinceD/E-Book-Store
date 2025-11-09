@@ -1,0 +1,25 @@
+{
+  "name": "ebook-store",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/danielprinceD/E-Book-Store#readme",
+  "bugs": {
+    "url": "https://github.com/danielprinceD/E-Book-Store/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielprinceD/E-Book-Store.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "nodemon"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
